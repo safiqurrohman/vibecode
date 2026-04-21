@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1776748816488,
+      "tag": "0000_high_northstar",
+      "breakpoints": true
+    }
+  ]
+}
